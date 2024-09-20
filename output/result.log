@@ -8,12 +8,10 @@ Name: 大湾区卫视, URL: https://skype.serv00.net/itouch.php?id=nfws$1920x108
 Name: 新会综合, URL: https://skype.serv00.net/itouch.php?id=xhzh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 鹤山综合, URL: https://skype.serv00.net/itouch.php?id=hszh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 深圳卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
-Name: CCTV-1, URL: http://113.67.181.144:10000/rtp/239.77.0.14:5146$720x576, Date: None, Resolution: 720x576, Response Time: 242 ms
-Name: CCTV-1, URL: http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8$720x576, Date: None, Resolution: 720x576, Response Time: 375 ms
+Name: CCTV-1, URL: http://113.67.181.144:10000/rtp/239.77.0.14:5146$720x576, Date: None, Resolution: 720x576, Response Time: 375 ms
 Name: CCTV-2, URL: https://cntv.lat/tv/live.php?auth=231110&id=cctv2$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: CCTV-11, URL: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8$426x240, Date: None, Resolution: 426x240, Response Time: 375 ms
-Name: CCTV-13, URL: http://stream.smntv.cn/smtv1/playlist.m3u8$320x240, Date: None, Resolution: 320x240, Response Time: 372 ms
-Name: CCTV-13, URL: http://stream.smntv.cn/smtv1/playlist.m3u8$320x240, Date: None, Resolution: 320x240, Response Time: 372 ms
+Name: CCTV-13, URL: http://stream.smntv.cn/smtv1/playlist.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: 广东卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 广东卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
@@ -37,7 +35,6 @@ Name: 东方卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018
 Name: 东南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 东南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 甘肃卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
-Name: 广西卫视, URL: http://www.dsmcloud.top:8888/udp/239.81.0.107:4056$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 254 ms
 Name: 广西卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 贵州卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 海南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
@@ -63,8 +60,8 @@ Name: 云南卫视, URL: http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031120
 Name: 翡翠台, URL: http://php.jdshipin.com:8880/smt.php?id=jade_twn$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 翡翠台, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 星河台, URL: https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
-Name: 凤凰中文, URL: http://ayolee.com:5253/udp/239.93.0.162:2192$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 53 ms
 Name: 凤凰中文, URL: http://pi.0472.org/tv/cbn.php?id=xfjcHD$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
+Name: 凤凰资讯, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 450 ms
 Name: 凤凰资讯, URL: http://61.221.215.25:8800/hls/47/index.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: 凤凰香港, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$1280x720, Date: None, Resolution: 1280x720, Response Time: 375 ms
 Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
@@ -77,6 +74,5 @@ Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$19
 Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 450 ms
 Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 450 ms
 Name: TVBS新闻, URL: http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$640x360, Date: None, Resolution: 640x360, Response Time: 450 ms
-Name: TVBS欢乐, URL: http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$854x480, Date: None, Resolution: 854x480, Response Time: 450 ms
-Name: TVBS欢乐, URL: http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$640x360, Date: None, Resolution: 640x360, Response Time: 330 ms
+Name: TVBS欢乐, URL: http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$640x360, Date: None, Resolution: 640x360, Response Time: 450 ms
 Name: TVBS欢乐, URL: http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$640x360, Date: None, Resolution: 640x360, Response Time: 450 ms
