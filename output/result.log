@@ -5,8 +5,8 @@ Name: 大湾区卫视, URL: https://skype.serv00.net/itouch.php?id=nfws$1920x108
 Name: 新会综合, URL: https://skype.serv00.net/itouch.php?id=xhzh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 鹤山综合, URL: https://skype.serv00.net/itouch.php?id=hszh$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: CCTV-1, URL: http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8$720x576, Date: None, Resolution: 720x576, Response Time: 375 ms
+Name: CCTV-9, URL: http://nas.hssvm.com:8888/udp/225.1.1.119:5002$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: CCTV-11, URL: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8$426x240, Date: None, Resolution: 426x240, Response Time: 375 ms
-Name: 广东卫视, URL: http://218.15.214.115:10000/udp/239.77.0.84:5146$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 4 ms
 Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 375 ms
 Name: 黑龙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$720x576, Date: None, Resolution: 720x576, Response Time: 375 ms
 Name: 吉林卫视, URL: https://pulltv1.wanfudaluye.com/live/tv1.m3u8$1280x720, Date: None, Resolution: 1280x720, Response Time: 450 ms
