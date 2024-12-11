@@ -2,6 +2,7 @@
 广东珠江,https://skype.serv00.net/itouch.php?id=gdzj$1920x1080
 广东体育,https://skype.serv00.net/itouch.php?id=gdty$1920x1080
 广东新闻,https://skype.serv00.net/itouch.php?id=gdxw$1920x1080
+广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8$720x576
 大湾区卫视,https://skype.serv00.net/itouch.php?id=nfws$1920x1080
 新会综合,https://skype.serv00.net/itouch.php?id=xhzh$1920x1080
 鹤山综合,https://skype.serv00.net/itouch.php?id=hszh$1920x1080
