@@ -7,6 +7,7 @@
 鹤山综合,https://skype.serv00.net/itouch.php?id=hszh$1920x1080
 央视频道,#genre#
 CCTV-1,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8$720x576
+CCTV-9,http://nas.hssvm.com:8888/udp/225.1.1.119:5002$1920x1080
 CCTV-11,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8$426x240
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$1920x1080
@@ -37,5 +38,4 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$1920x1080
 TVBS新闻,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$640x360
-TVBS欢乐,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$854x480
 TVBS欢乐,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8$640x360
